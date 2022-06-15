@@ -9,9 +9,9 @@
 ------------
 Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnologias:
 
-- [Python](https://www.python.org/ "Heading link")
-- [Pandas](https://pandas.pydata.org/ "Heading link")
-- [Pywin32](https://pypi.org/project/pywin32/ "Heading link")
+- [Python](https://www.python.org/ "Python")
+- [Pandas](https://pandas.pydata.org/ "Pandas")
+- [Pywin32](https://pypi.org/project/pywin32/ "Pywin32")
 
 <a id="informacao-uso" class="anchor"></a>
 ### :information_source:  Como Usar
