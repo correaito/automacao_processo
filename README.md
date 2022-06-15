@@ -1,8 +1,41 @@
-# Automação de Indicadores
+<h1 align="center"> Automação de Indicadores </h1>
+<h4 align="center">Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador.</h4>
 
-### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
+![imagem](https://img.shields.io/badge/-Python-orange) ![imagem](https://img.shields.io/badge/-pywin32-black) ![imagem](https://img.shields.io/badge/-Pandas-brown) ![imagem](https://img.shields.io/badge/-Openpyxl-green)
 
-### Descrição:
+<a id="tecnologias" class="anchor"></a>
+### :rocket:  Tecnologias
+
+------------
+Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnologias:
+
+- [Python](https://www.python.org/ "Heading link")
+- [Pandas](https://pandas.pydata.org/ "Heading link")
+- [Pywin32](https://pypi.org/project/pywin32/ "Heading link")
+
+<a id="informacao-uso" class="anchor"></a>
+### :information_source:  Como Usar
+------------
+Para executar este aplicativo, você precisará apenas clonar e abrir em seu navegador. 
+
+Da sua linha de comando:
+
+    # Clone este repositório
+    $ git clone https://github.com/correaito/automacao_processo.git
+    
+    # Vá para o repositório
+    $ cd automacao_processo
+    
+    # Instale as extensões
+    $ pip install pandas
+    $ pip install openpyxl
+    $ pip install pywin32
+
+    
+Agora, para executar o script, dentro do PyCharm, abra o arquivo main.py, clique com o botão direito do mouse, e depois em "Run main.py", ou com <kbd>SHIFT</kbd> + <kbd>CTRL</kbd> + <kbd>F10</kbd>.
+
+<a id="descricao" class="anchor"></a>
+### :clipboard:  Descrição
 
 Imagine que você trabalha em uma grande rede de lojas de roupa com 25 lojas espalhadas por todo o Brasil.
 
@@ -20,7 +53,8 @@ Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
 ![exemplo_email](Exemplo.JPG)
 
-### Arquivos e Informações Importantes
+<a id="infoimportantes" class="anchor"></a>
+### :page_with_curl:  Arquivos e Informações Importantes
 
 - Arquivo Emails.xlsx com o nome, a loja e o e-mail de cada gerente. Obs: Sugiro substituir a coluna de e-mail de cada gerente por um e-mail seu, para você poder testar o resultado
 
@@ -32,7 +66,8 @@ Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
 - As planilhas de cada loja devem ser salvas dentro da pasta da loja com a data da planilha, a fim de criar um histórico de backup
 
-### Indicadores do OnePage
+<a id="indicadores" class="anchor"></a>
+### :chart_with_upwards_trend:  Indicadores do OnePage
 
 - Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000
 - Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4
